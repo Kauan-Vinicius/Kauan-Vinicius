@@ -27,19 +27,19 @@
 
 <table>
   <tr>
-    <td width="38%" valign="top">
+    <td width="38%" valign="center">
       <img src="./assets/prayer.jpg" alt="Vagabond portrait" width="100%" />
     </td>
     <td width="62%" valign="top">
 
-      Hey there, I'm Kauan Vinicius, Python enthusiast.
+Hey there, I'm Kauan Vinicius, Python enthusiast.
 
-      I work at the intersection of data analysis, data engineering, DataOps and Python development, building practical automations that remove manual work and make information easier to trust.
+I work at the intersection of data analysis, data engineering, DataOps and Python development, building practical automations that remove manual work and make information easier to trust.
 
-      My background includes logistics and educational environments, with experience in ETL/ELT pipelines, BI dashboards like Power BI and Streamlit, SQL modeling, NoSQL modeling, process automation, APIs, web scraping, RPA, implementations with DataOps practices and LLM integrations.
+My background includes logistics and educational environments, with experience in ETL/ELT pipelines, BI dashboards like Power BI and Streamlit, SQL modeling, NoSQL modeling, process automation, APIs, web scraping, RPA, implementations with DataOps practices and LLM integrations.
 
-      The work I enjoy most is the direct part: collecting the data, cleaning it, modeling it, automating tedious tasks, and delivering something that people can actually use. Automating and optimizing data collection, storage, processing, and distribution processes.
-  </td>
+The work I enjoy most is the direct part: collecting the data, cleaning it, modeling it, automating tedious tasks, and delivering something that people can actually use. Automating and optimizing data collection, storage, processing, and distribution processes.
+    </td>
   </tr>
 </table>
 

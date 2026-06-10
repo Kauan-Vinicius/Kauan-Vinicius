@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/duel.png" alt="Kauan Vinicius profile header" width="100%" />
+  <img src="./assets/musashi-training-vagabond.png" alt="Kauan Vinicius profile header" width="100%" />
 </p>
 
 <p align="center">
